@@ -1,0 +1,12 @@
+.login_page {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../../images/login_bk.jpg");
+}
+.init_contain {
+    width: 40%;
+    background: #fff;
+}
